@@ -58,7 +58,7 @@ pipeline_py --> removed_visualization_py
 pipeline_py --> metric_visualization_py
 ```
 
-  - 폴더 구조
+- 폴더 구조
     ├── main.py
     ├── data/
     │   └── dataset_update.csv
